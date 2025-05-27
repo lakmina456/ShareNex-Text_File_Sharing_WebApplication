@@ -1,6 +1,6 @@
 # ShareNex
 
-<img src="public/logo.png" align="center" alt="Screenshot 1" width="350" style="margin:8px;"/>
+<img src="public/logo.png" align="center"  width="350" />
 
 > **ShareNex** is a secure platform for sharing files and text between users. Built with Next.js, Supabase, and a modern UI, it offers a seamless and privacy-focused sharing experience.
 
