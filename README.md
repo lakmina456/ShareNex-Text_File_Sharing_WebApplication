@@ -26,9 +26,9 @@
 
 <div align="center">
   <img src="public/dashboard.PNG" alt="Screenshot 1" width="350" style="margin:8px;"/>
-  <img src="public/friends.PNG" alt="Screenshot 2" width="350" style="margin:8px;"/>
-  <img src="public/clipboard.PNG" alt="Screenshot 1" width="350" style="margin:8px;"/>
-  <img src="public/files.PNG" alt="Screenshot 2" width="350" style="margin:8px;"/>
+  <img src="public/Friends.PNG" alt="Screenshot 2" width="350" style="margin:8px;"/>
+  <img src="public/Clipboard.PNG" alt="Screenshot 1" width="350" style="margin:8px;"/>
+  <img src="public/Files.PNG" alt="Screenshot 2" width="350" style="margin:8px;"/>
 </div>
 
 ---
