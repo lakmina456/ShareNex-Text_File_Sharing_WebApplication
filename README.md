@@ -25,10 +25,10 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="public/dashboard.png" alt="Screenshot 1" width="350" style="margin:8px;"/>
-  <img src="public/friends.png" alt="Screenshot 2" width="350" style="margin:8px;"/>
-  <img src="public/clipboard.png" alt="Screenshot 1" width="350" style="margin:8px;"/>
-  <img src="public/files.png" alt="Screenshot 2" width="350" style="margin:8px;"/>
+  <img src="public/dashboard.PNG" alt="Screenshot 1" width="350" style="margin:8px;"/>
+  <img src="public/friends.PNG" alt="Screenshot 2" width="350" style="margin:8px;"/>
+  <img src="public/clipboard.PNG" alt="Screenshot 1" width="350" style="margin:8px;"/>
+  <img src="public/files.PNG" alt="Screenshot 2" width="350" style="margin:8px;"/>
 </div>
 
 ---
