@@ -23,9 +23,9 @@
 ---
 ## 🚀 Coming Soon
 
-- ** Desktop Application
-- ** Android App
-- ** iOS APP
+- **Desktop Application
+- **Android App
+- **iOS APP
 ---
 
 ## 📸 Screenshots
