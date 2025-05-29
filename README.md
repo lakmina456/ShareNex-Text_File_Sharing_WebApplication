@@ -21,6 +21,12 @@
 - **Feedback System:** Users can send feedback and optionally upload images.
 
 ---
+## 🚀 Coming Soon
+
+- ** Desktop Application
+- ** Android App
+- ** iOS APP
+---
 
 ## 📸 Screenshots
 
