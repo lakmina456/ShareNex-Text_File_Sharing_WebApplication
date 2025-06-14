@@ -9,6 +9,15 @@
 [🌐 Live Website](https://share-nex.vercel.app)
 
 ---
+## 🆕 Updates (v1.2)
+
+- Added file preview sidebar for quick file viewing without leaving the dashboard.
+- Improved sidebar and dashboard UI for better navigation and usability.
+- Enhanced feedback system: users can now upload images with their feedback.
+- Optimized performance and fixed minor bugs in file and friend management.
+- Updated dependencies and improved overall code structure.
+
+---
 
 ## 🚀 Features
 
